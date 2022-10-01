@@ -22,7 +22,7 @@
     }
   ],
   "hosting": {
-    "public": "public",
+    "public": "build",
     "site": "g-dev-blog",
     "ignore": [
       "firebase.json",
